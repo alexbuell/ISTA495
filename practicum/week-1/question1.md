@@ -6,5 +6,3 @@
 4. Populate the world table using the csv file included in this folder
 
 Update!!
-My name is Alex
-Send!! 123
